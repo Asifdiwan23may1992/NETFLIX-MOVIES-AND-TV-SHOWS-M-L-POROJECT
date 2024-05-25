@@ -14,6 +14,7 @@ Later i have used the silhouette method and k-means elbow method to find optimal
 ![image](https://github.com/Asifdiwan23may1992/NETFLIX-MOVIES-AND-TV-SHOWS-M-L-POROJECT/assets/150370025/5f1d6eed-b33a-4a17-83f9-ad8b1d0d60aa)
 
 In this project, you are required to do
+
 Acquiring the Dataset
 
 Library Setup
