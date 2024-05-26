@@ -25,7 +25,9 @@ Identifying and Handling Missing Values
 
 Transformation of Categorical Variables
 
-Data Cleansing and Feature Enhancement 1.Exploratory Data Analysis
+Data Cleansing and Feature Enhancement 
+
+1.Exploratory Data Analysis
 
 Understanding what type content is available in different countries
 
